@@ -1,6 +1,7 @@
 // Import required modules
 const generateSVG = require('../lib/svg');
 
+// Test generateSVG function to confirm it successfully renders the SVG contents
 describe('generateSVG function', () => {
   it('should successfully generate SVG content', () => {
     const data = {
