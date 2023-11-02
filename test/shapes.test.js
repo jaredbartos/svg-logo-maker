@@ -1,5 +1,5 @@
 // Import required modules
-const Shapes = require('./shapes');
+const Shapes = require('../lib/shapes');
 const Shape = Shapes.Shape;
 const Triangle = Shapes.Triangle;
 const Circle = Shapes.Circle;

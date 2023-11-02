@@ -1,5 +1,5 @@
 // Import required modules
-const generateSVG = require('./svg');
+const generateSVG = require('../lib/svg');
 
 describe('generateSVG function', () => {
   it('should successfully generate SVG content', () => {
